@@ -272,7 +272,7 @@ public:
 
         while (true)
         {
-            cout << "\n---- Bank Management System ----" << endl;
+            cout << "\n----- Bank Management System -----" << endl;
             cout << "\n1. Add Account" << endl;
             cout << "2. Search Account" << endl;
             cout << "3. Deposit Funds" << endl;
